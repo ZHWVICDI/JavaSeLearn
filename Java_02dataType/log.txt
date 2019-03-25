@@ -1,0 +1,14 @@
+问题:遍历对象数组类型时，仍然为全限定类名。
+原因：对象没有重写toString方法。
+
+问题：Arrays.sort方法，有一个参数compartor参数该怎么使用
+
+
+问题：Exception in thread "main" java.lang.NullPointerException
+原因：空指针引用
+
+问题:Arrays.sort方法不起作用？看ArraysTest
+
+问题：自动拆装箱过程中，对于byte范围的值  ，java是cache还是常量池，这两者区别。
+
+问题：StringBuilder类的默认构造器初始容量为16是什么意思

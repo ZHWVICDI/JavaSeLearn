@@ -1,0 +1,3 @@
+//实现一个方法重写(覆盖)的例子
+//然后重写equals toString hashCode方法   建议：equals和hashCode方法一起覆盖
+//equals和hashCode的重要性扩展

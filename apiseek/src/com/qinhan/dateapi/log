@@ -1,0 +1,4 @@
+问题:private static final ONE_YEAR=1000*60*60*24*31*12;
+	Date d = new Date(ONE_YEAR);
+	此时返回的date不是在1971 而是1970 
+原因:因为没有加L表示是long型，所以默认为int丢失了精度。
